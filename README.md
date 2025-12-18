@@ -1,4 +1,4 @@
-# Cloudflare Error Page Generator
+# cloudflare error page generator. welcome master n31!
 
 📢 **Update (2025/12/09)**: All icons used in the error page have been fully redrawn as vector assets. These icons along with the stylesheet are also inlined into a single file of the error page, eliminating any need of hosting additional resources, and ensuring better experience for you and your end users.
 
