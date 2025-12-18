@@ -10,7 +10,6 @@ else:
     from typing import _SpecialForm
     NotRequired: _SpecialForm
 
-
 from jinja2 import Environment, PackageLoader, Template, select_autoescape
 
 env = Environment(
