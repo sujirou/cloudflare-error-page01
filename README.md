@@ -19,7 +19,7 @@ Here's an online editor to create customized error pages. Try it out [here](http
 Install `cloudflare-error-page` with pip.
 
 ``` Bash
-pip install git+https://github.com/donlon/cloudflare-error-page.git
+pip install git+https://github.com/sujirou/cloudflare-error-page01.git
 ```
 
 Then you can generate an error page using the `render` function. ([example.py](examples/example.py))
